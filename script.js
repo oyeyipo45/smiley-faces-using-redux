@@ -1,9 +1,4 @@
-// 1. write a reducer
-// 2. state = initial state
-// 3. write the store
-// 4. write action
-// 5. write functiin to display
-// 6. handle click event
+
 
 const initialState = "(O_O)";
 const face = document.getElementById('face');
